@@ -112,3 +112,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+PythonProject_ETL/datasource/.DS_Store
