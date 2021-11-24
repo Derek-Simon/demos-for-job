@@ -1,5 +1,7 @@
 # demos for a job
  Here are some demos for learning and also for preparing for job interviews.
+ 
+ > THIS REPO IS ARCHIVED, PLZ SEE [data_player](https://github.com/Derek-Simon/data-player).
 
 ## more details
  I was familiar with many computer techniques before I become a project manager.
